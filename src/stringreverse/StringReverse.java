@@ -7,7 +7,7 @@ package stringreverse;
 import java.util.Scanner;
 /**
  *
- * @author Tanya Chowdhary
+ * @author Tanya Chowdhary  2023
  */
 public class StringReverse {
 
